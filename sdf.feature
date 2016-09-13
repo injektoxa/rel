@@ -2,8 +2,8 @@
 Feature: asdf
 asdf
 
-@sfasdf @SC_626393771
-Scenario: asfd
+@SC_626393771 @sfasdf
+Scenario: asfdddd
 asf
 Given afsd
 When dasff
