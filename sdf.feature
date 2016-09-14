@@ -1,4 +1,4 @@
-@ST_524020113 @sdfa
+@ST_524020113
 Feature: asdfвы
 asdf
 
